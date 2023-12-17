@@ -1,5 +1,5 @@
 => Brute Force approach 
-=> T.C :- O((N*M)*(N + M)) + O(N*M)
+=> T.C:- O((N*M)*(N + M)) + O(N*M)
 
 class Solution {
 public:
