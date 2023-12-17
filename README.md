@@ -1,4 +1,4 @@
-# Striver's 191 DSA Sheet Series Practice Code
+# Striver's 191 Curated DSA Problem series 
 
 Welcome to the Striver's 191 DSA Sheet Series Practice Code repository! This project is a comprehensive collection of solutions and explanations for the problems presented in Striver's 191 DSA Sheet.
 
