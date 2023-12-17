@@ -1,4 +1,4 @@
-# Striver's 191 Curated DSA Problem Series
+# Myself 200 Curated DSA Problem Series
 
 Welcome to Striver's 191 Curated DSA Problem Series repository! 🚀
 
